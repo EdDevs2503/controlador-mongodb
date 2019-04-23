@@ -1,0 +1,14 @@
+{
+  "name": "gestor-mongodb-eddevs",
+  "version": "1.0.0",
+  "description": "Gestor de base de datos basado en los driver de MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Edisson Mata http://edissondevs.com",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "3.2.3"
+  }
+}
